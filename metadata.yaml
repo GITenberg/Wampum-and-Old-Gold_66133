@@ -1,5 +1,8 @@
 _repo: Wampum-and-Old-Gold_66133
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66133-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Allen, Hervey
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6462
     wikipedia: https://en.wikipedia.org/wiki/Hervey_Allen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66133#Wampum-and-Old-Gold
 gutenberg_issued: '2021-08-24'
 identifiers:
   gutenberg: '66133'
