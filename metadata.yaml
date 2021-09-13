@@ -1,0 +1,25 @@
+_repo: Wampum-and-Old-Gold_66133
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, Hervey
+    birthdate: 1889
+    deathdate: 1949
+    gutenberg_agent_id: '6462'
+    url: http://www.gutenberg.org/2009/agents/6462
+    wikipedia: https://en.wikipedia.org/wiki/Hervey_Allen
+description: ''
+gutenberg_issued: '2021-08-24'
+identifiers:
+  gutenberg: '66133'
+  lccn: '21016521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: Wampum and Old Gold
+url: http://www.gutenberg.org/ebooks/66133
